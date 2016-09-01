@@ -2,3 +2,4 @@ ls1 My name is Ziroto
 ls2 I'm newbie.
 ls3 Please teach me.Thanks.
 ls4  I Love GIT
+ls5  Do you love me?. GIT
